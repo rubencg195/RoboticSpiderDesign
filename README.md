@@ -1,6 +1,6 @@
 #Robotic Spider Design
 
-![Alt text]("https://github.com/rubencg195/RoboticSpiderDesign/blob/master/Demo/IMG-20150524-WA0010.jpeg")
-![Alt text]("/Demo/IMG-20150603-WA0001.jpg")
-![Alt text]("/Demo/IMG-20150605-WA0000.jpeg")
-![Alt text]("/Demo/IMG-20150927-WA0000.jpeg")
+![Design](/Demo/IMG-20150524-WA0010.jpeg?raw=true)
+![Printing Gear](/Demo/IMG-20150603-WA0001.jpg?raw=true)
+![Prinnting Motor Stand](/Demo/IMG-20150605-WA0000.jpeg?raw=true)
+![Version 2 Assembly](/Demo/IMG-20150927-WA0000.jpeg?raw=true)
